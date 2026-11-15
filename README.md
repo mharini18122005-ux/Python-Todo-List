@@ -32,8 +32,8 @@ The main objective of TaskFlow is to provide a simple and efficient platform for
 
 **Harini M**
 
-GitHub: [https://github.com/mharini18122005-ux
+GitHub: [[https://github.com/mharini18122005-ux
 ](https://github.com/mharini18122005-ux/Python-Todo-List.git)
----
+---](https://github.com/mharini18122005-ux/Python-Todo-List)
 
 ⭐ If you find this project useful, feel free to explore the repository!
