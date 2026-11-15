@@ -136,7 +136,7 @@ def delete_task(task_id):
 
     return redirect(url_for("home", date=task["due_date"] if task else date.today().isoformat()))
 
+create_table()
 
 if __name__ == "__main__":
-    create_table()
     app.run(debug=True)
